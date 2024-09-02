@@ -1,6 +1,6 @@
 #home{
     height:100vh;
-    background:url('images/home-img/bg.jpg') no-repeat , center;
+    background:url('images/home-img/home-bg.jpg') no-repeat , center;
     background-size:cover;
     background-attachment:fixed;
     padding:50px 0;
